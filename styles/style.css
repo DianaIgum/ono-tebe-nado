@@ -40,6 +40,7 @@
 }
 
 .header_contacts_phone_email {
+  display: block;
   text-underline-offset: 4px;
 }
 
@@ -141,7 +142,7 @@
   gap: 25px;
 }
 
-.lots_card-list_link{
+.lots_card-list_link {
   text-decoration:none;
 }
 
@@ -264,10 +265,6 @@
 .footer_contacts {
   justify-self: center;
   margin-right: 63px;
-}
-
-.header_contacts_phone_email{
-  display: block;
 }
 
 .footer_menu {
